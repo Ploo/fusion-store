@@ -1,0 +1,26 @@
+{
+  "name":"Chaos Druid Tower",
+  "description":"Chaos Druid Tower, 46 Thieving required, 33 Agility to use log balance shortcut",
+  "author":"Ploo",
+  "tags":[
+    "chaos",
+    "druid",
+    "herbs"
+  ],
+  "data":{
+    "npcs":[
+      {
+        "id":516,
+        "name":"Chaos druid",
+        "combat":13
+      }
+    ],
+    "tile":{
+      "x":2565,
+      "y":3356,
+      "z":0
+    },
+    "radius":10,
+    "multiCombat":false
+  }
+}
