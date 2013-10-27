@@ -15,9 +15,9 @@
       },
       "npcs":[
          {
-            "id":516,
-            "combat":-1,
-            "label":"Chaos druid"
+            "id":516,		 
+            "name":"Chaos druid"		 
+            "combat":13,
          }
       ],
       "radius":10
